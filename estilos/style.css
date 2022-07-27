@@ -15,12 +15,13 @@ html, body{
 body{
     background: url('../imagens/fundo-madeira.jpg') no-repeat top center;
     background-size: cover;
-    background-attachment: fixed;
+    background-attachment: fixed
 }
 
 main{
     height: 100vh;
     position: relative;
+
 }
 
 section#telefone {
@@ -61,4 +62,6 @@ section#redes-sociais img:hover{
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.623);
     transition: transform .3s, border 1s;
 }
+
+
 
